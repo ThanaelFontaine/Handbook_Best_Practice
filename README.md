@@ -1,4 +1,7 @@
 # Handbook_Best_Practice
 
 [Task ESTIMATION](Task_estimation/index.md)
-[Code REVIEW](https://github.com/ThanaelFontaine/Handbook_Best_Practice/blob/main/Code_Review/index.md)
+
+[Code REVIEW](Code_Review/index.md)
+
+[Automated TESTING](Automated_Testing/index.md)

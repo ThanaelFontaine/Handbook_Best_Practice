@@ -5,7 +5,7 @@ The purpose of this handbook is to provide guidelines for software quality best 
 ---
 
 ## Structure of this Read Me
-1. [Task Estimation in Scrum](Task_estimation/index.md) :
+1. [Task Estimation in Scrum](Task_Estimation/index.md) :
   
   a. Break tasks down into smaller, more manageable pieces to accurately estimate effort required.
   

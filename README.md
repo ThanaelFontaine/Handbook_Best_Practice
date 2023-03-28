@@ -4,7 +4,7 @@ The purpose of this handbook is to provide guidelines for software quality best 
 
 ---
 
-##Structure du Read Me
+## Structure of this Read Me
 1. [Task Estimation in Scrum :](Task_estimation/index.md)
   a. Break tasks down into smaller, more manageable pieces to accurately estimate effort required.
   b. Use Planning Poker or similar techniques to facilitate group discussion and decision-making.
@@ -19,7 +19,7 @@ The purpose of this handbook is to provide guidelines for software quality best 
   d. Use tools and automation to support the review process and identify potential issues.
   e. Provide constructive feedback that is specific, actionable, and respectful.
 
-3. [Automated TESTING](Automated_Testing/index.md)
+3. [Automated testing :](Automated_Testing/index.md)
   a. Write tests early and often to ensure coverage and catch issues early in the development process.
   b. Use a variety of testing types, including unit, integration, and end-to-end testing, to ensure comprehensive coverage.
   c. Use tools and frameworks to support testing, such as Selenium for web applications or Appium for mobile applications.

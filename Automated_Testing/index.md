@@ -37,9 +37,9 @@ Planning poker is a technique that involves the whole team in estimating the eff
 By identifying and mitigating potential blockages or obstacles, the SCRUM team can increase its effectiveness, efficiency and satisfaction. It can also deliver value to the customer faster and more reliably.
 
 ### For further reading, we recommend the following resources:
-"Estimation Techniques for Agile Teams" by Mike Cohn
-"Planning Poker: A Comprehensive Guide to Agile Estimation" by Atlassian
-"The Art of Agile Development: Task Estimation" by James Shore
-"Agile Estimation Techniques" by Mountain Goat Software
-"How to Estimate User Stories in Agile Development" by Johanna Rothman
+   1. "Estimation Techniques for Agile Teams" by Mike Cohn
+   2. "Planning Poker: A Comprehensive Guide to Agile Estimation" by Atlassian
+   3. "The Art of Agile Development: Task Estimation" by James Shore
+   4. "Agile Estimation Techniques" by Mountain Goat Software
+   5. "How to Estimate User Stories in Agile Development" by Johanna Rothman
 

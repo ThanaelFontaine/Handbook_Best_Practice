@@ -29,7 +29,7 @@ The purpose of this handbook is to provide guidelines for software quality best 
   
   e. Provide constructive feedback that is specific, actionable, and respectful.
 
-3. [Automated testing](Automated_Testing/index.md) :
+3. [Automated testing](Automated_Testing /index.md) :
   
   a. Write tests early and often to ensure coverage and catch issues early in the development process.
   

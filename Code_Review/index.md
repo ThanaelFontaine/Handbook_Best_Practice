@@ -1,6 +1,6 @@
 # CODE REVIEW
 
-## Introdustion
+## Introduction
 
 Code reviews are an important part of ensuring code quality and catching potential issues before they make it into production. We have analyzed 5 quality resources related to this topic to identify common themes. The following guidelines summarize the best practices for code reviews:
 

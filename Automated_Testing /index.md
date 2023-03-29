@@ -1,6 +1,6 @@
 # AUTOMATED TESTING
 
-## Intro
+## Introduction
 
 Code reviews are an important part of ensuring code quality and catching potential issues before they make it into production. We have analyzed 5 quality resources related to this topic to identify common themes. The following guidelines summarize the best practices for code reviews:
 
@@ -72,3 +72,6 @@ In short, providing constructive feedback is crucial to help developers improve 
 5. [How to Estimate User Stories in Agile Development](https://www.jrothman.com/mpd/agile/2004/11/how-to-estimate-user-stories-in-agile-development/) by Johanna Rothman:
 
 ---
+Write by Quentin NICOLAS, José RODRIGUES and Maxime THIONG-KAY
+
+Review by Thanael FONTAINE

@@ -1,70 +1,47 @@
-## Intro
+## Introduction
 
-Task estimation is an important process in Scrum that helps the team understand the effort required to complete a specific task. We have identified 5 quality resources related to this topic, which we have analyzed to identify common themes.
-
----
-
-The following guidelines summarize the best practices for task estimation in Scrum:
-
-- Break tasks down into smaller, more manageable pieces to accurately estimate effort required.
-- Use Planning Poker or similar techniques to facilitate group discussion and decision-making.
-- Consider the impact of dependencies and potential risks when estimating tasks.
-- Review and revise task estimates regularly, particularly when new information becomes available.
-- Identify and mitigate potential blockers or obstacles that may impact task completion.
-
-### Review code regularly and frequently to catch issues early and provide timely feedback.
-
-Review code regularly and frequently to catch problems early and provide timely feedback" is a key principle of effective code review, as outlined in Google's Code Review Guidelines. Code review is an essential part of the software development process, where team members evaluate each other's code to identify potential problems and ensure that the code meets established coding standards. Regular and frequent code reviews can help detect problems early in the development cycle, which can save considerable time and effort in the long run. In addition, timely feedback can be provided to developers, which can help them correct problems while the code is still fresh in their minds. By reviewing code regularly and frequently, teams can identify and resolve issues more effectively, leading to higher quality code and a more streamlined development process.
-
-Of course, here are some additional tips and best practices for code review:
-
-* Set clear expectations: it is important to set clear expectations for the code review, including the coding standards to be met, the level of detail required, and the timeframe for the review. This helps to ensure that the code review is effective and consistent.
-* Involve the right stakeholders: Involve the team members who are most knowledgeable in the relevant area for the code review. Senior developers can provide a valuable perspective and help detect more subtle problems.
-* Provide constructive feedback: feedback should be constructive and helpful, rather than simply pointing out errors. Suggestions for improving the code can also be provided.
-
-### Establish clear guidelines and standards for code formatting, documentation, and style.
-
-"Establishing clear guidelines and standards for code formatting, documentation and style is essential to ensure consistent and easily understood code for the whole team. Coding standards should be consistent and easily understood by all team members. This minimises coding errors and makes it easier to maintain the code in the long term. It is also important to focus on documentation to help team members understand the code and facilitate collaboration. SmartBear's "10 Best Practices for Peer Code Review" recommends ensuring that comments are clear and concise, using consistent naming conventions and providing code examples. Additional best practices include checking code using static analysis tools to detect code quality issues, ensuring security rules are followed, sharing knowledge among team members, and making sure code review is done regularly."
-
-* Consult the coding conventions of the platform: Popular programming languages often have specific coding conventions for formatting and styling code. It is important to consult these to ensure that coding standards conform to recommended practices.
-* Establish standards for comments: Comments should be clear, concise and consistent. It is important to set standards for comments, for example specifying their location, length, tone, style and content.
-* Establish standards for documentation: Code documentation should be clear, concise and easily understood. It is important to establish standards for documentation, such as the types of information to be included, their location and format.
-* Involve team members: Team members should be involved in setting coding standards. This helps to ensure that the standards are consistent with recommended practices and that all team members understand the expectations.
-
-### Encourage peer review and collaboration to promote learning and knowledge sharing.
-
-Encouraging peer review and collaboration is essential to promote learning and knowledge sharing within the development team. Peer review allows team members to share expertise, discover alternative solutions and learn new practices and techniques. By encouraging collaboration, team members can work together to solve problems, share ideas and improve the quality of the code. Atlassian's Code Review Best Practices recommends ensuring that peer reviews are conducted regularly and consistently, using code review tools to facilitate the process. It is also important to provide constructive feedback, focusing on issues rather than people, and to promote a positive and collaborative working environment. Additional good practices include fostering diversity and inclusion by encouraging the participation of all team members, creating mentoring and training opportunities to foster continuous learning, and promoting transparency by sharing the results of the peer review with the entire team.
-
-### Use tools and automation to support the review process and identify potential issues.
-
-The use of tools and automation can help facilitate the code review process and quickly identify potential problems. Tools such as code checkers, linters and security analysis tools can help identify syntax errors, coding standards violations, security vulnerabilities and other potential problems. These tools can be configured to easily integrate into existing development workflows, automating part of the review process and helping to save time and effort. In addition, the use of version management tools such as Git can help facilitate collaboration between team members and provide visibility into changes made to code.
-
-SmartBear's "10 Best Practices for Peer Code Review" article also recommends using code review tools to help manage review processes, track comments and ensure consistency. It is important to select the right tools based on the needs of the team and to ensure that they are used effectively and consistently by all team members. In addition, it is important to ensure that automation does not completely replace human review, but rather complements and supports it.
-
-Finally, Atlassian's Code Review Best Practices article highlights the importance of using tools to help reduce bias and promote inclusion in the review process. For example, code suggestion tools can help reduce bias by suggesting code changes based on coding standards rather than personal preferences.
-
-In sum, the use of tools and automation can help support the code review process and quickly identify potential problems. However, it is important to select the right tools for the team's needs, ensure they are used effectively and consistently, and not completely replace human review with automation."
-
-### Provide constructive feedback that is specific, actionable, and respectful.
-
-When providing feedback on code, it is important to do so in a constructive, specific and respectful manner. Feedback should be based on coding standards and project requirements, rather than personal preferences, and should offer concrete suggestions rather than mere criticism. Providing balanced feedback and identifying the positive aspects of the code can encourage developers and help them continue to learn.
-
-Atlassian's Code Review Best Practices article highlights the importance of a collaborative approach when providing feedback, encouraging developers to discuss their feedback with their peers. It is also crucial to keep in mind the context and goals of the project when providing feedback so that it is useful and relevant.
-
-SmartBear's "10 Best Practices for Peer Code Review" guide recommends providing feedback in a timely manner to allow developers to make changes as soon as possible. They also stress the importance of providing specific and actionable feedback, which includes concrete suggestions for improving the code.
-
-Finally, Google's Code Review Guidelines emphasise the importance of providing feedback in a respectful working environment, avoiding negative feedback that may be perceived as offensive or discouraging. It is crucial to be clear and precise in your feedback to avoid confusion or misunderstanding.
-
-In short, providing constructive feedback is crucial to help developers improve their code and continue to learn. Feedback should be based on coding standards and project requirements, rather than personal preferences, and should offer concrete suggestions. Feedback should also be provided in a respectful working environment, be balanced and include positive feedback. Taking a collaborative approach and providing timely feedback can help developers improve their work and achieve their goals.
+Task estimation is an important process in Scrum that helps the team understand the effort required to complete a specific task. We have identified 5 quality resources related to this topic, which we have analyzed to identify common themes. The following guidelines summarize the best practices for task estimation in Scrum:
 
 ---
+### Break tasks down into smaller, more manageable pieces to accurately estimate effort required.
+   One of the most common challenges faced by project managers is estimating the effort required for a given task. Often, tasks are too complex or too vague to be accurately estimated without breaking them down into smaller, more manageable pieces. In this blog post, we will discuss the importance of task decomposition and some tips on how to do it effectively.
+   Breaking down tasks has several advantages for project management. Firstly, it helps to clarify the scope and requirements of the task, which can avoid misunderstandings and conflicts later on. Secondly, it allows for more realistic and accurate estimates of the time, resources and skills required to complete the task. Third, it facilitates the distribution and coordination of work among team members, as well as the monitoring and communication of progress and problems. Fourth, it reduces the risk of delays and errors due to unforeseen complications or dependencies.
+   How do you break down tasks into smaller pieces? There are different methods and tools that can help us in this process, such as work breakdown structures (WBS), mind maps, flow charts or checklists. The key is to start with the main objective or deliverable of the task and then identify the subtasks or steps needed to achieve it. Each sub-task should be as specific and measurable as possible, and have a clear leader and deadline. The level of detail and granularity of subtasks can vary depending on the complexity and uncertainty of the task, but they should be small enough to be easily estimated and managed.
+   Breaking down tasks into smaller pieces is not only good practice for project management, but also for personal productivity and motivation. It can help us overcome procrastination, focus on what matters most, celebrate small victories and achieve our goals more quickly and efficiently.
 
+### Use Planning Poker or similar techniques to facilitate group discussion and decision-making.
+   One of the key principles of SCRUM is to allow the team to self-organise and collaborate effectively. However, this does not mean that the team can work without any structure or direction. In fact, the team must have a clear and shared understanding of the project's objectives, scope, requirements and priorities. This is where planning poker or similar techniques can be useful.
+   Planning poker is a technique that involves the whole team in estimating the effort and complexity of each user story or backlog task. Team members use a pack of cards with numbers that represent different levels of effort, such as the Fibonacci sequence (1, 2, 3, 5, 8, 13, etc.). Each team member chooses a card corresponding to his or her own estimate and reveals it simultaneously to the others. If there is a significant difference between the estimates, the team discusses the reasons and tries to reach a consensus. The process is repeated until the team agrees on a reasonable estimate for each element.
+   The benefits of planning poker or similar techniques are many. Firstly, it encourages the team to have a constructive and respectful dialogue about the work to be done. It also uncovers hidden assumptions, dependencies, risks and uncertainties that may affect the project. Secondly, it fosters a sense of ownership and commitment among team members. By participating in the estimation process, team members feel more involved and accountable for the results of the project. Thirdly, it improves the accuracy and reliability of the estimates. By using a relative effort scale rather than absolute hours or days, the team can avoid over- or underestimating the work. In addition, by drawing on the collective wisdom and experience of the team, estimates are more likely to reflect the reality of the project.
+   In conclusion, planning poker or similar techniques are valuable tools for facilitating group discussion and decision making in SCRUM. They help to create a common understanding and alignment between team members and to produce realistic and reliable estimates for items in the order book. By using these techniques regularly and consistently, the team can improve performance and deliver value to customers.
 
+### Consider the impact of dependencies and potential risks when estimating tasks.
+   One of the key principles of SCRUM is to deliver value to the customer in short, frequent iterations. To achieve this, the team needs to estimate the tasks that make up each iteration, or sprint, and commit to completing them within the given timeframe. However, estimating tasks is not simply a matter of assigning hours or points to each activity. It also involves considering the impact of dependencies and potential risks that may affect task completion.
+   Dependencies are the relationships between tasks that determine the order in which they can be performed. For example, a task may depend on the completion of another task first, the availability of a resource or the provision of an external input. Dependencies can create bottlenecks, delays and conflicts in the workflow and reduce the flexibility and responsiveness of the team. Therefore, when estimating tasks, the team should identify and document dependencies and plan how to manage them effectively.
+   Potential risks are uncertain events or conditions that may have a negative impact on the completion of the task. For example, a risk may be a technical problem, a change in requirements, staff turnover or feedback from the customer. Risks can lead to rework, changes in project scope, quality problems and customer dissatisfaction. Therefore, when estimating tasks, the team should assess and prioritise risks and plan how to mitigate or avoid them.
+   By considering the impact of dependencies and potential risks when estimating tasks, the team can improve the accuracy and reliability of its estimates and increase its chances of delivering value to the customer in each sprint.
 
-### For Further Information :
+### Review and revise task estimates regularly, particularly when new information becomes available.
+   One of the key principles of SCRUM is to deliver value to the customer in short iterations called sprints. To do this effectively, the team must have a realistic and accurate plan of what they can accomplish in each sprint. This is where task estimation comes in. Task estimation involves assigning a numerical value to each task in the backlog, which represents the effort required to complete it. Task estimation helps the team prioritize the most important and useful tasks, allocate resources efficiently and monitor progress and performance.
+   However, task assessment is not a one-off activity that can be done once and forgotten. It is a dynamic and continuous process that requires constant review and revision. Why is this so important? Because things change. New information becomes available, new requirements emerge, new dependencies are discovered, new risks are identified, new technologies are introduced, and so on. All these factors can affect the initial estimates and make them obsolete or inaccurate.
+   Therefore, the team should regularly review and revise its task estimates, especially when new information becomes available. This can happen at various points in the SCRUM process, such as during sprint planning, daily meetings, sprint reviews or sprint retrospectives. The team should use empirical data and feedback from previous sprints to adjust their estimates based on their actual performance and learning. The team should also communicate any changes to its estimates to the product owner and other stakeholders so that they can align their expectations and priorities accordingly.
+   Regularly reviewing and revising task estimates is not only a good practice, it is also a necessity in SCRUM. It helps the team deliver value to the customer faster and better, while avoiding waste, frustration and disappointment. It also allows the team to improve their estimation skills and accuracy over time, which builds confidence among team members and the customer.
 
-1. [Estimation Techniques for Agile Teams](https://www.mountaingoatsoftware.com/blog/estimation-techniques-for-agile-teams) by Mike Cohn:
-2. [Planning Poker: A Comprehensive Guide to Agile Estimation](https://www.atlassian.com/agile/project-management/estimation/planning-poker) by Atlassian:
-3. [The Art of Agile Development: Task Estimation](https://www.jamesshore.com/v2/blog/2005/task_estimation.html) by James Shore:
-4. [Agile Estimation Techniques](https://www.mountaingoatsoftware.com/agile/estimating/agile-estimating-techniques) by Mountain Goat Software:
-5. [How to Estimate User Stories in Agile Development](https://www.jrothman.com/mpd/agile/2004/11/how-to-estimate-user-stories-in-agile-development/) by Johanna Rothman:
+### Identify and mitigate potential blockers or obstacles that may impact task completion.
+   One of the key principles of SCRUM is to deliver value to the customer in short and frequent iterations. To achieve this, the SCRUM team must plan, execute and review its work in a collaborative and transparent manner. However, the team may sometimes encounter challenges or difficulties that prevent them from completing their tasks on time. These obstacles can have a negative impact on the productivity, quality and morale of the team.
+   Blockers or obstacles can be internal or external to the team. Internal blockers are those that arise from the team's own processes, skills, tools or dependencies. For example, a team member may not have the knowledge or experience to complete a task, or a tool may malfunction or become unavailable. External barriers are those that are beyond the team's control, such as changing customer requirements, stakeholder interference, regulatory issues or environmental factors.
+
+   The SCRUM team should identify and mitigate potential blockers or obstacles as early as possible, before they become critical or escalate. This can be done through a variety of techniques and practices, such as
+  - Daily meetings: Team members share their progress, plans and obstacles every day. This helps to highlight problems or risks that may affect the team's work and to coordinate actions to resolve them.
+  - Defining what is done: The team agrees on a set of criteria that define when a task is completed and meets quality standards. This avoids ambiguity, rework and technical debt.
+  - Sprint backlog refinement: The team regularly reviews and updates the sprint backlog to ensure that tasks are clear, achievable and consistent with the sprint goal. This prevents confusion, scope creep and unrealistic expectations.
+  - Sprint retrospective: The team reflects on its performance and results at the end of each sprint and identifies what went well and what can be improved. This allows them to learn from the experience and implement changes for future sprints.
+
+  By identifying and mitigating potential blockages or obstacles, the SCRUM team can increase its effectiveness, efficiency and satisfaction. It can also deliver value to the customer faster and more reliably.
+
+### For further reading, we recommend the following resources:
+  1. "Estimation Techniques for Agile Teams" by Mike Cohn
+  2. "Planning Poker: A Comprehensive Guide to Agile Estimation" by Atlassian
+  3. "The Art of Agile Development: Task Estimation" by James Shore
+  4. "Agile Estimation Techniques" by Mountain Goat Software
+  5. "How to Estimate User Stories in Agile Development" by Johanna Rothman

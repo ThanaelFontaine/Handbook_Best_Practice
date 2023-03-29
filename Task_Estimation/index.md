@@ -1,3 +1,5 @@
+# TASK ESTIMATION
+
 ## Introduction
 
 Task estimation is an important process in Scrum that helps the team understand the effort required to complete a specific task. We have identified 5 quality resources related to this topic, which we have analyzed to identify common themes. The following guidelines summarize the best practices for task estimation in Scrum:
@@ -39,9 +41,14 @@ Task estimation is an important process in Scrum that helps the team understand 
 
   By identifying and mitigating potential blockages or obstacles, the SCRUM team can increase its effectiveness, efficiency and satisfaction. It can also deliver value to the customer faster and more reliably.
 
+---
 ### For further reading, we recommend the following resources:
   1. "Estimation Techniques for Agile Teams" by Mike Cohn
   2. "Planning Poker: A Comprehensive Guide to Agile Estimation" by Atlassian
   3. "The Art of Agile Development: Task Estimation" by James Shore
   4. "Agile Estimation Techniques" by Mountain Goat Software
   5. "How to Estimate User Stories in Agile Development" by Johanna Rothman
+  ---
+Write by Thanael FONTAINE and Eliot MARTIN
+
+Review by José RODRIGUES
